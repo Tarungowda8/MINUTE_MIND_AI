@@ -153,7 +153,7 @@ http://localhost:5173
  
 ### AI Generated Results
 
-![AI Generated Results](screenshots/output.png)
+![Output](screenshots/output.png)
 
 ---
 

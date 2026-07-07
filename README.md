@@ -70,7 +70,7 @@ MinuteMind-AI/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/MinuteMind-AI.git
+git clone https://github.com/Tarungowda8/MinuteMind-AI.git
 ```
 
 ---
